@@ -1,0 +1,841 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pyp",
+				"pyplot\tmodule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/resume.css",
+			"settings":
+			{
+				"buffer_size": 2383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/MinGW-w64.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/MinGW-w64.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"last_filter": "remov",
+		"selected_items":
+		[
+			[
+				"remov",
+				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"remo",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"showal",
+				"SublimeBookmarks: Show All Bookmarks "
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 365.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Viet/Dropbox/Website",
+		"/C/Users/Viet/Dropbox/Website/css",
+		"/C/Users/Viet/Dropbox/Website/scss"
+	],
+	"file_history":
+	[
+		"/C/Users/Viet/Desktop/platform-tools-latest-windows/platform-tools/lineage-15.1-20180326-nightly-oneplus2-signed/META-INF/com/google/android/updater-script",
+		"/C/Users/Viet/Desktop/platform-tools-latest-windows/platform-tools/lineage-15.1-20180326-nightly-oneplus2-signed/META-INF/com/google/android/update-binary",
+		"/C/Users/Viet/Dropbox/Website/css/resume.min.css",
+		"/C/Users/Viet/Dropbox/Website/css/resume.css",
+		"/C/Users/Viet/Desktop/startbootstrap-resume-gh-pages/index.html",
+		"/C/Users/Viet/Dropbox/Website/scss/resume.scss",
+		"/C/Users/Viet/Dropbox/Website/scss/_resume-item.scss",
+		"/C/Users/Viet/Dropbox/Website/index.html",
+		"/C/Users/Viet/Dropbox/Website/css/carousel.css",
+		"/C/Users/Viet/Desktop/startbootstrap-resume-gh-pages/css/resume.css",
+		"/C/Users/Viet/Dropbox/Resume/Resume.tex",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/EngStruct_2ndsub.tex",
+		"/C/Users/Viet/Dropbox/Website/css/style.css",
+		"/C/Users/Viet/Dropbox/Website/test",
+		"/C/Users/Viet/Dropbox/Resume/Resume_2017_1213.tex",
+		"/F/arianna/Codici Mathematica/velocita_di_divergenza.nb",
+		"/C/Users/Viet/Dropbox/resume-master/Resume_2017_1213.tex",
+		"/C/Users/Viet/Dropbox/resume-master/resume-master/README.md",
+		"/C/Users/Viet/Dropbox/resume-master/resume-master/Resume_2017_1213.tex",
+		"/C/Users/Viet/Dropbox/Latex/test/test_presentation.tex",
+		"/C/Users/Viet/Dropbox/Latex/test/demopack.sty",
+		"/C/Users/Viet/Dropbox/Professional CV/cv.tex",
+		"/C/Users/Viet/Dropbox/Latex/test/test.tex",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Wind Tunnel/Experiments/Calib_2017_1002_Louver/cal_1.lvm",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/EngStruct_1stsub.tex",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/test/a1.tex",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Viet/Dropbox/CPP_tutorials/Fundamentals/FundamentalsCplusplus/FundamentalsCplusplus/simple2.cpp",
+		"/C/Users/Viet/Dropbox/CPP_tutorials/Fundamentals/FundamentalsCplusplus/FundamentalsCplusplus/main.cpp",
+		"/C/Users/Viet/AppData/Roaming/Sublime Text 3/Packages/Python-27.sublime-build",
+		"/C/Users/Viet/Dropbox/sublime builds/Python-27.sublime-build",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/mybib.bib",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.tex",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2_Luca_20171012.tex",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.aux",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.nls",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2_Luca_20170930.tex",
+		"/C/Users/Viet/AppData/Roaming/Sublime Text 3/Installed Packages/LaTeX Equation Preview.sublime-package",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.bbl",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/mybib_Luca_20170929.bib",
+		"/C/Users/Viet/Dropbox/NEU_Viet/NS_WG/SDOF/Probability_analysis/hatched_bar_pvalue.py",
+		"/C/Users/Viet/AppData/Roaming/Sublime Text 3/Packages/Better Bookmarks/BetterBookmarks.sublime-settings",
+		"/C/Users/Viet/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2_Luca_20170929.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.tex (active).tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/paper1.sublime-project",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/project1.sublime-project",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2_Luca_20170929.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/older version/Luca_corrected/Version_20170928/draft2.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/older version/draft_09292017.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-28/cal_1.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-29/cal_1.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-29/cal_3.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-09-26/data_1.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-30/test_5.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-30/test_1.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Wind Tunnel/Hotwire_Labview and MATLAB/data-2017-06-29/cal_0.lvm",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/SDOF/Probability_analysis/hatched_bar_pvalue.py",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/Time_comparison/hatched_bar.py",
+		"/C/Users/vqle21/Dropbox/Python/Python4DataAnalysis/ch08/lessonch8.py",
+		"/C/Users/vqle21/Dropbox/Python/Python4DataAnalysis/ch07/lessonch7.py",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/Time_comparison/test.py",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/package-Eng_Structures/cost_analysis.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/SDOF/SDOF_WG_formulation/SDOF_WG_formulation.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/mybib.bib",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/Journal_paper_1/draft2.bbl",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/package-Eng_Structures/test/cost_analysis.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/package-Eng_Structures/test/mybib.bib",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Personal Papers/package-Eng_Structures/test/bstforstruteng.bst",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/Error_formulation/Error_WG_formulation.tex",
+		"/C/Users/vqle21/Dropbox/sublime builds/Python-27.sublime-build",
+		"/C/Users/vqle21/Dropbox/Python/sentdex tutorials/Geographical Plotting/Geo_tutorial1_plotting.py",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/MDOF/MDOF_WG_formulation/MDOF_WG_formulation.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_WG/2DOF/2DOF_WG_formulation/2DOF_WG_formulation.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/NS_RKF_GeneralBuilding/State Space Formulation/State Space formulation.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/Figure_plot_matlab.txt",
+		"/C/Users/vqle21/Dropbox/CPP_tutorials/first_test.cpp",
+		"/C/Users/vqle21/AppData/Roaming/Sublime Text 3/Packages/MinGW-w64.sublime-build",
+		"/C/Users/vqle21/AppData/Local/Sublime Text 3/Cache/LaTeXTools/preview_math/05930792fa27bb03ee56cc98d3537722.png.err",
+		"/C/Users/vqle21/AppData/Local/Sublime Text 3/Cache/LaTeXTools/preview_math/a31c68f1ea0a1e8f8f07b42cfd8e6e67.png.err",
+		"/C/Users/vqle21/Dropbox/Python/sentdex tutorials/tutorial8-15_17-25_plotting.py",
+		"/C/Users/vqle21/Desktop/test.py",
+		"/C/Users/vqle21/Desktop/trisurf3d_demo.py",
+		"/C/Users/vqle21/Desktop/grayscale.py",
+		"/C/Users/vqle21/Desktop/legend_guide-3.py",
+		"/C/Users/vqle21/Desktop/legend_guide-4.py",
+		"/C/Users/vqle21/Desktop/xkcd.py",
+		"/C/Users/vqle21/Desktop/annotate_text_arrow.py",
+		"/C/Users/vqle21/Desktop/axes_zoom_effect.py",
+		"/C/Users/vqle21/Desktop/annotate_simple01.py",
+		"/C/Users/vqle21/Desktop/connectionstyle_demo.py",
+		"/C/Users/vqle21/Desktop/fancyarrow_demo.py",
+		"/C/Users/vqle21/Desktop/test2",
+		"/C/Users/vqle21/Desktop/fancybox_demo2.py",
+		"/C/Users/vqle21/Desktop/test"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"min.",
+			"img",
+			"profile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16287,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								11464,
+								11464
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11374,
+										11376
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11300,
+										11302
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11466,
+										11468
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11391,
+										11393
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 200.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/resume.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2383,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										108,
+										109
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										91,
+										92
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 287.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 204.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "website_test.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
