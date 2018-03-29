@@ -183,9 +183,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Viet/Dropbox/Website",
-		"/C/Users/Viet/Dropbox/Website/css",
-		"/C/Users/Viet/Dropbox/Website/scss"
+		"/C/Users/vqle21/Dropbox/Website"
 	],
 	"file_history":
 	[
@@ -287,7 +285,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -749,7 +747,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -794,7 +792,7 @@
 	"project": "website_test.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
