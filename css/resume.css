@@ -144,7 +144,8 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #AA001E;
+  color: #000000;
+  text-decoration: none;
 }
 
 .back-to-top { 
@@ -161,7 +162,25 @@ a:hover, a:focus, a:active {
   color: #495057;
   background-color: #ffffff;
 }
- 
+
+.red-hover a:hover {
+  color: #AA001E;
+}
+
 .back-to-top i {
   font-size: 60px;
+}
+
+.header-img {
+  margin-right: 25px;
+}
+
+.smaller-bullets{
+  font-size: 10px;
+  padding: 0.5em 0.0em;
+  margin-left: -7.5px;
+}
+
+.para-space{
+  margin-bottom: 5px;
 }
