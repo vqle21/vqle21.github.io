@@ -44,3 +44,5 @@
   });
 
 })(jQuery); // End of use strict
+
+$('.carousel').carousel()

@@ -184,3 +184,7 @@ a:hover, a:focus, a:active {
 .para-space{
   margin-bottom: 5px;
 }
+
+.para-space-above{
+  margin-top: 20px;
+}

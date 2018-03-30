@@ -5873,6 +5873,7 @@ button.close {
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
   perspective: 1000px;
+  height: auto;
 }
 
 .carousel-item.active,
@@ -6039,10 +6040,10 @@ button.close {
 }
 
 .carousel-caption {
-  position: absolute;
-  right: 15%;
+  position: relative;
   bottom: 20px;
-  left: 15%;
+  left: auto;
+  right: auto;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
