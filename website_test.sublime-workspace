@@ -99,10 +99,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 271.0,
-		"last_filter": "remov",
+		"height": 392.0,
+		"last_filter": "pack",
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
 			[
 				"remov",
 				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
@@ -138,13 +142,9 @@
 			[
 				"package",
 				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: Remove Package"
 			]
 		],
-		"width": 476.0
+		"width": 412.0
 	},
 	"console":
 	{
@@ -165,10 +165,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Viet_Le/Dropbox/vqle21.github.io"
+		"/C/Users/Viet/Dropbox/vqle21.github.io"
 	],
 	"file_history":
 	[
+		"/C/Users/Viet/Dropbox/vqle21.github.io/css/resume.css",
+		"/C/Users/Viet/Dropbox/vqle21.github.io/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/Viet/Dropbox/vqle21.github.io/index.html",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/index.html",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/js/resume.js",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/js/back-to-top.js",
