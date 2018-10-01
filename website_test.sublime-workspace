@@ -165,13 +165,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Viet/Dropbox/vqle21.github.io"
+		"/C/Users/vqle21/Dropbox/vqle21.github.io"
 	],
 	"file_history":
 	[
-		"/C/Users/Viet/Dropbox/vqle21.github.io/css/resume.css",
-		"/C/Users/Viet/Dropbox/vqle21.github.io/vendor/bootstrap/css/bootstrap.css",
-		"/C/Users/Viet/Dropbox/vqle21.github.io/index.html",
+		"/C/Users/vqle2/Dropbox/neu 2016-2017/Vibration-based SHM/Project/Report/SHM_report.tex",
+		"/C/Users/vqle2/Dropbox/vqle21.github.io/index.html",
+		"/C/Users/vqle2/Dropbox/vqle21.github.io/css/resume.css",
+		"/C/Users/vqle2/Dropbox/vqle21.github.io/vendor/bootstrap/css/bootstrap.css",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/index.html",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/js/resume.js",
 		"/C/Users/Viet_Le/Dropbox/vqle21.github.io/js/back-to-top.js",
@@ -275,7 +276,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -289,6 +290,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"slide",
+			"data-slide-to",
+			"webkit-transform",
 			"min.",
 			"img",
 			"profile"
@@ -316,7 +320,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -361,7 +365,7 @@
 	"project": "website_test.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
