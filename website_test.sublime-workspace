@@ -11,8 +11,17 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/VietdissertationProposal.tex",
+			"settings":
+			{
+				"buffer_size": 2705,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -60,7 +69,7 @@
 			],
 			[
 				"Packages/LaTeXTools/LaTeX.sublime-build",
-				"PdfLaTeX"
+				"Basic Builder"
 			]
 		],
 		[
@@ -100,9 +109,21 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "pack",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"latex",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"upda",
+				"LaTeXTools: Update document analysis cache"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -169,6 +190,42 @@
 	],
 	"file_history":
 	[
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/JWEIA.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/JWEIA-checkline332.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/2nd Submission/JWEIA_VL.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/Images_2ndversion/JWEIA.tex",
+		"/C/Users/vqle21/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/10186/template[2305843009215282057].bib",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/template.bib",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/JWEIA.bbl",
+		"/C/Users/vqle21/Desktop/Proceedings_of_a_Symposium_on_Wind_Effec.bibtex",
+		"/C/Users/vqle21/Desktop/ams_apme127_900.bib",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Engineering Structures 2018/EngStruct_2ndsub.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Engineering Structures 2018/mybib.bib",
+		"/C/Users/vqle21/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/JWEIA.log",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap6.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap5.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap4.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap3.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap2.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap1.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/abstract.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap7.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/VietdissertationProposal.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/neuthesis.cls",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/JWEIA_2018/JWEIA_style.sty",
+		"/C/Program Files/MiKTeX 2.9/tex/latex/elsarticle/elsarticle.cls",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/VietdissertationProposal.log",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/mybib.bib",
+		"/C/Users/vqle21/Dropbox/vqle21.github.io/index.html",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/myrefs.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Wei DissertationProposal/chap2.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/dissertationProposal.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/dissertationProposal.log",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Wei DissertationProposal/dissertationProposal.tex",
+		"/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/chap2.aux",
+		"/C/Users/vqle21/Dropbox/vqle21.github.io/css/resume.css",
+		"/C/Users/vqle21/Dropbox/Resume/Resume.tex",
 		"/C/Users/vqle2/Dropbox/neu 2016-2017/Vibration-based SHM/Project/Report/SHM_report.tex",
 		"/C/Users/vqle2/Dropbox/vqle21.github.io/index.html",
 		"/C/Users/vqle2/Dropbox/vqle21.github.io/css/resume.css",
@@ -260,19 +317,7 @@
 		"/C/Users/vqle21/AppData/Local/Sublime Text 3/Cache/LaTeXTools/preview_math/a31c68f1ea0a1e8f8f07b42cfd8e6e67.png.err",
 		"/C/Users/vqle21/Dropbox/Python/sentdex tutorials/tutorial8-15_17-25_plotting.py",
 		"/C/Users/vqle21/Desktop/test.py",
-		"/C/Users/vqle21/Desktop/trisurf3d_demo.py",
-		"/C/Users/vqle21/Desktop/grayscale.py",
-		"/C/Users/vqle21/Desktop/legend_guide-3.py",
-		"/C/Users/vqle21/Desktop/legend_guide-4.py",
-		"/C/Users/vqle21/Desktop/xkcd.py",
-		"/C/Users/vqle21/Desktop/annotate_text_arrow.py",
-		"/C/Users/vqle21/Desktop/axes_zoom_effect.py",
-		"/C/Users/vqle21/Desktop/annotate_simple01.py",
-		"/C/Users/vqle21/Desktop/connectionstyle_demo.py",
-		"/C/Users/vqle21/Desktop/fancyarrow_demo.py",
-		"/C/Users/vqle21/Desktop/test2",
-		"/C/Users/vqle21/Desktop/fancybox_demo2.py",
-		"/C/Users/vqle21/Desktop/test"
+		"/C/Users/vqle21/Desktop/trisurf3d_demo.py"
 	],
 	"find":
 	{
@@ -290,6 +335,40 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\,cm",
+			"designating",
+			"cyan",
+			"month",
+			"transient",
+			"transient flow device",
+			"transient",
+			"``running",
+			"\\bar{U}",
+			"to maintain",
+			"``mean'' wind",
+			"``mean''-wind",
+			"``mean'' wind",
+			"U_red",
+			"_red",
+			"red",
+			"max",
+			"names",
+			"bib",
+			"build",
+			"begininput",
+			"given",
+			"bib",
+			"biblio",
+			"bib",
+			"script_commands",
+			"script",
+			"newcomm",
+			"renew",
+			"temp",
+			"fonts",
+			"listcount",
+			"includegraphics",
+			"September",
 			"slide",
 			"data-slide-to",
 			"webkit-transform",
@@ -313,8 +392,46 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/vqle21/Dropbox/NEU_Viet/My papers/Proposals/Viet DissertationProposal/VietdissertationProposal.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1521,
+								1521
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 171,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1061.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -359,7 +476,7 @@
 	},
 	"output.latextools":
 	{
-		"height": 204.0
+		"height": 127.0
 	},
 	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "website_test.sublime-project",
